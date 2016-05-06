@@ -1,0 +1,9 @@
+.loadSequentially, .onscrollpipelineloading, .onscrollloading, .loadonvisible{
+    background-color:#f8f8f8;
+    background-image:url('loader.gif');
+	   background-repeat:no-repeat;
+    background-position:50%;
+}
+.showOnLoad{
+    display:none;
+}

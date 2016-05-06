@@ -1,2 +1,2 @@
-# imagelazyload
-Image Lazy Load. Various method to load the image on scroll and other method
+# image-lazy-loading
+This is jquery plugin to make image loading efficient in various way with loader

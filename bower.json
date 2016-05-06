@@ -1,0 +1,26 @@
+{
+  "name": "image-lazy-loading",
+  "homepage": "https://github.com/sagarrabadiya/image-lazy-loading",
+  "description": "The jquery plugin to load images on demand",
+  "main": "jquery.imglazyload.js",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "sagar rabadiya<sam.coolone70@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
